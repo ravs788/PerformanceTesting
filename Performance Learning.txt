@@ -1,0 +1,12 @@
+6901
+6910
+
+create plugin - c# code - done
+parse json
+modify json 
+serilaize
+send it back
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS0123	No overload for 'myLoadTest_LoadTestStarting' matches delegate 'EventHandler'	ClassLibrary1	C:\Users\ravshan\Source\Repos\PartsUnlimited\ClassLibrary1\Class1.cs	20	Active
+
